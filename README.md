@@ -33,3 +33,4 @@ You can issue a ticket in GitHub: https://github.com/tehmaze/ipcalc/issues
 
 [![Build Status](https://travis-ci.org/tehmaze/ipcalc.svg?branch=master)](https://travis-ci.org/tehmaze/ipcalc)
 [![Code Health](https://landscape.io/github/tehmaze/ipcalc/master/landscape.svg)](https://landscape.io/github/tehmaze/ipcalc/master)
+[![Run on Repl.it](https://repl.it/badge/github/tehmaze/ipcalc)](https://repl.it/github/tehmaze/ipcalc)
